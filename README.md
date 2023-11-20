@@ -3,8 +3,8 @@
 
   <ul>
     <li>🌱 Atualmente estou aprendendo <strong>HTML, CSS, BOOTSTRAP, JAVASCRIPT</strong></li>
-    <li>💬 Pergunte-me sobre <strong>FRONT END</strong></li>
-    <li>⚡ Curiosidade: <strong>tenho um sonho com programação</strong></li>
+    <li>💬 Pergunte-me sobre <strong>Frontend, café, Harry Potter</strong></li>
+    <li>⚡ Curiosidade: <strong>eu sonho com programação</strong></li>
   </ul>
 
   <h3 align="left">Conecte-se comigo:</h3>
