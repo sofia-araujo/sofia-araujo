@@ -1,9 +1,10 @@
 ![Banner](./assets/Banner.png)
 
-####  		 **Desenvolvedora  Fullstack • Amante de café e gatos**
+<h3 align="center">Desenvolvedora  Fullstack • Amante de café e gatos</h3>
 
+------
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sofia-araujo&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-araujo&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sofia-araujo&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-araujo&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Eu sou a Sofia desenvolvedora Fullstack formada em Técnico em informática para Internet
 
