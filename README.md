@@ -1,4 +1,4 @@
-![Banner](C:\Users\Pichau\Desktop\sofia-araujo\assets\Banner.png)
+![Banner](./assets/Banner.png)
 
 ####  		 **Desenvolvedora  Fullstack • Amante de café e gatos**
 
