@@ -12,7 +12,6 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Gosto de resolver problemas e sou movida por novos desafios
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tenho conhecimentos em JavaScript, React.js e Node.js com foco em desenvolvimento web
 
 ### **Minha Stack**
 
